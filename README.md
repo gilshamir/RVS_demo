@@ -1,5 +1,5 @@
 # Real Vision Simulation #
-### Side by Side demo of different design ###
+### Side by Side demo of different designs ###
 
 ## How to install ##
 * either clone the repo or download RVS_demo.py
